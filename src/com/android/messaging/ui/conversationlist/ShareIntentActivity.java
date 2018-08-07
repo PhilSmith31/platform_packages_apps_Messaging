@@ -35,6 +35,7 @@ import com.android.messaging.util.ContentType;
 import com.android.messaging.util.LogUtil;
 import com.android.messaging.util.MediaMetadataRetrieverWrapper;
 import com.android.messaging.util.FileUtil;
+import com.android.messaging.util.UiUtils;
 
 import java.io.IOException;
 import java.util.ArrayList;
